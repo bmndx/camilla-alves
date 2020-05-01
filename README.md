@@ -7,3 +7,10 @@ Através dos repositórios eu farei uma timeline do progresso meu aprendizado, d
 Este aqui, sendo o primeiro e mais básico, foi desenvolvido apenas com **HTML e CSS**.
 
 ![](screenshots/header.png)
+![](screenshots/sobre.png) 
+![](screenshots/campanhas.png)
+![](screenshots/campanhas-2.png) 
+![](screenshots/campanhas-3.png)
+![](screenshots/contato.png)
+
+
