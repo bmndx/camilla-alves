@@ -8,13 +8,13 @@ Este aqui, sendo o primeiro e mais básico, foi desenvolvido apenas com **HTML e
 
 ### Screenshots do site:
 
-### Header:
+### Header
 ![](screenshots/header.png)
 
-### Biografia e Campanhas Publicitárias:
+### Biografia e Campanhas Publicitárias
 ![](screenshots/site.png)
 
-### Contato:
+### Contato
 ![](screenshots/contato.png)
 
 
