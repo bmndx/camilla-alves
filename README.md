@@ -7,7 +7,7 @@ Através dos repositórios eu farei uma timeline do progresso meu aprendizado, d
 
 Este aqui, sendo o primeiro e mais básico, foi desenvolvido apenas com **HTML e CSS**.
 
-### ~ Para este projeto, eu aprendi como atualizar: 
+### ~ Para este projeto, eu aprendi como utilizar: 
 * Cabeçalhos, Parágrafos
 * Imagens, Links
 * Classes e IDs
