@@ -1,28 +1,25 @@
-# Camilla Alves - Portfólio Profissional
-### Portfólio (fake) desenvolvido para uma Modelo Publicitária
+<h1 align="center">
+  Camilla Alves - Portfólio Profissional 📷
+</h1>
 
-Este é o meu primeiro projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o curso de Desenvolvimento Web. 
+### Este é o meu primeiro e mais básico projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o aprendizado de Desenvolvimento Web. E através dos repositórios será possível acompanhar uma timeline da minha evolução.
+________
+ 
+### 📚 Tecnologias utilizadas:
+* CSS
+* HTML
 
-Através dos repositórios eu farei uma timeline do progresso meu aprendizado, desde o projeto mais básico até o mais avançado.
+### ✨ Sobre o projeto e o que eu aprendi:
+Este projeto é um portólio fake para uma modelo publicítária
 
-Este aqui, sendo o primeiro e mais básico, foi desenvolvido apenas com **HTML e CSS**.
+ *Para este projeto eu aprendi sobre cabeçalhos, parágrafos, imagens, links, classes e IDs, tags divs & span, bordas, fontes e cores*
 
-### ~ Para este projeto, eu aprendi como utilizar: 
-* Cabeçalhos, Parágrafos
-* Imagens, Links
-* Classes e IDs
-* Tags Divs & Span
-* Bordas, Fontes & Cores
+### 📷 GIF do site:
+![](screenshots/1.gif)
+________
 
-### Screenshots do site:
-
-### Header
-![](screenshots/header.png)
-
-### Biografia e Campanhas Publicitárias
-![](screenshots/site.png)
-
-### Contato
-![](screenshots/contato.png)
+<h4 align="center">
+  Feito com ❤ by Brenda Miranda
+</h4>
 
 
